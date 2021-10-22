@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'Danrlei-Huber',
-  youtube: 'jakelinygracielly',
-  facebook: 'maykbrito',
-  instagram: 'jakeliny.gracielly',
-  twitter: 'jakelinytec'
+  youtube: 'channel/UCeROSvP1nrGnsS_mWO6oNJA',
+  facebook: 'darlei.huber.1',
+  instagram: 'darleihuber',
+  twitter: 'ShibaTa82147456'
 }
 
 function changeSocialMediaLinks() {
